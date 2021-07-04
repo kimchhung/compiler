@@ -1,0 +1,2 @@
+VAR grade = 89
+IF grade < 100 AND grade >= 90 THEN PRINT("A") ELIF grade < 90 AND grade >= 80 THEN PRINT("B") ELIF grade < 70 AND grade >= 60 THEN PRINT("D") ELIF grade < 60 AND grade >= 50 THEN PRINT("E") ELIF grade < 50 AND grade >= 0 THEN PRINT("F")
